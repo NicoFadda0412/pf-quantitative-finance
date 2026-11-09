@@ -20,3 +20,9 @@ git status
 
 # Agregar archivo
 git add {nombre_archivo} | ejemplo: git add main.py
+
+# Confirmar cambios
+git commit -m "backup"
+
+# Cargar cambios al repositorio
+git push origin main
